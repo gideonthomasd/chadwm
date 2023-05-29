@@ -1,1 +1,3 @@
 # chadwm
+
+For nixOS
